@@ -28,3 +28,11 @@ __Tarea 1__
 __Quiz 1__
 
 Repasar el capitulo 1 de Mining of Massive data sets. (Comprobación de lectura)
+
+### Semana 4
+
+__Tarea 2__
+  
+  Entregar
+  
+  * Ejercicios del cápitulo 2. 2.3.1, 2.3.2, 2.3.5
