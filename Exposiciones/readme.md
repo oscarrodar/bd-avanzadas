@@ -2,7 +2,7 @@
 
 ## [Project Voldemort] (http://www.project-voldemort.com/voldemort/)
 
-Voldemort is a distributed key-value storage system
+Voldemort is a distributed key-value storage system. Here's a [presentation] (https://docs.google.com/presentation/d/1uDDijJLuvizWXT-d_75goXA8PhndmYE5b7VuYZgzbws/edit#slide=id.p) made by Jerson Wade explaining about it.  
 
 ## [RavenDB] (https://ravendb.net/)
 
