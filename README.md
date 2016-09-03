@@ -36,3 +36,11 @@ __Tarea 2__
   Entregar
   
   * Ejercicios del cápitulo 2. 2.3.1, 2.3.2, 2.3.5
+
+### Semana 5 - _Exposiciones_
+
+### Semana 6 - _Clases canceladas_
+
+### Semana 7 - _Entrega Tarea Programada 1_
+
+Para desarrollar en Erlang usé como intérprete de [Erlang-Solutions] (https://www.erlang-solutions.com/resources/download.html "Erlang-Solutions") 
